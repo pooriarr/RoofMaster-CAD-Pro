@@ -12,7 +12,7 @@
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-black?style=for-the-badge&logo=three.js&logoColor=white)](https://threejs.org/)
 [![Electron](https://img.shields.io/badge/Electron-43.x-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-8.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Web-orange?style=for-the-badge)](https://github.com/pooriarr/roofing)
+[![Platform](https://img.shields.io/badge/Platform-macOS%20%7C%20Windows%20%7C%20Web-orange?style=for-the-badge)](https://github.com/pooriarr/RoofMaster-CAD-Pro)
 
 <p align="center">
   <b>RoofMaster Pro</b> is an engineering-grade desktop and web application engineered for architects, civil engineers, roofing contractors, and fabricators. It delivers real-time 3D parametric visualization, interactive 2D blueprint drafting, structural metal panel optimization, and automated Bill of Materials (BOM) cost calculations.
@@ -86,8 +86,8 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/pooriarr/roofing.git
-cd roofing
+git clone https://github.com/pooriarr/RoofMaster-CAD-Pro.git
+cd RoofMaster-CAD-Pro
 ```
 
 ### 2. Install Dependencies
@@ -140,7 +140,7 @@ Artifacts are output to the `release/` directory.
 ## 📂 Project Architecture
 
 ```plaintext
-roofing/
+RoofMaster-CAD-Pro/
 ├── build/                 # Native application icons (icns, ico, png sets)
 ├── electron/              # Electron main & preload scripts
 │   ├── main.cjs           # Native window manager & IPC handlers
